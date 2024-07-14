@@ -33,6 +33,19 @@ Start with a dataset of your choice and perform EDA using libraries like pandas,
 ![image](https://github.com/user-attachments/assets/5270e38f-064a-41a9-a233-2675876371de)
 ![image](https://github.com/user-attachments/assets/3ffa68ec-f193-4581-90db-f0db92ef9c78)
 ![image](https://github.com/user-attachments/assets/3a724bb7-8723-46ad-a6d8-4c6b2dd80f08)
+![image](https://github.com/user-attachments/assets/34e56bd6-2832-4d93-8539-71cd32e1d467)
+
+
+### Inferences from the entire Project:
+
+1. Males are at higher risk of heart disease.
+2. Those who have never smoked have a higher rate of heart disease, and the lowest rate is in those who are former smokers.
+People who have a family history of heart disease are more likely to develop it.
+3. Diabetics are more likely to get heart disease.
+4. Numerical data analysis gives insights into median values and skewness.
+5. Columns with zero skewness indicate that the mean and median values are the same.
+6. The average cholesterol levels are high in the sample data.
+7. We have heart disease rate of 39.2 percent.
 
 
 
