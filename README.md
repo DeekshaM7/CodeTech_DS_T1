@@ -28,6 +28,16 @@ Start with a dataset of your choice and perform EDA using libraries like pandas,
 ![image](https://github.com/user-attachments/assets/418e27a8-4305-48cd-ad8b-c71b5f7cd01b)
 ![image](https://github.com/user-attachments/assets/a14a299a-e9c5-4760-97eb-67adfea61a2c)
 ![image](https://github.com/user-attachments/assets/30bb8f9a-d406-497d-a64c-356ecb007356)
+![image](https://github.com/user-attachments/assets/a23efe88-8aeb-44f2-a6d6-3c92b702a127)
+![image](https://github.com/user-attachments/assets/13bf0cdf-cb3a-4894-9051-a187a54df31a)
+![image](https://github.com/user-attachments/assets/5270e38f-064a-41a9-a233-2675876371de)
+![image](https://github.com/user-attachments/assets/3ffa68ec-f193-4581-90db-f0db92ef9c78)
+![image](https://github.com/user-attachments/assets/3a724bb7-8723-46ad-a6d8-4c6b2dd80f08)
+
+
+
+
+
 
 
 
