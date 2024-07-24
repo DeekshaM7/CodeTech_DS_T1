@@ -7,9 +7,9 @@ Task one of CodeTech Internship
 **DOMAIN:** DATA SCIENCE
 **DURATION:** 25TH JUNE TO 25TH JULY 
 
-## Overview of the Project: 
+## Overview of the Project: DATA SCIENCE
 
-### Project: EXPLORATORY DATA ANALYSIS (EDA) ON Heart Disease Prediction Dataset
+### Project (TASK 1): EXPLORATORY DATA ANALYSIS (EDA) ON Heart Disease Prediction Dataset
 
 ### Objective: 
 Start with a dataset of your choice and perform EDA using libraries like pandas, numpy, and matplotlib or seaborn. Explore the data's characteristics, distributions, correlations, and outliers. Visualize your findings with histograms, scatter plots, and heatmaps to gain insights into the data.
@@ -49,8 +49,10 @@ People who have a family history of heart disease are more likely to develop it.
 
 
 
+### Project (TASK 2): PREDICTIVE MODELING WITH LINEAR REGRESSION
 
-
+### Objective: 
+Implement a simple linear regression model using a dataset with continuous target variables. Split the data into training and testing sets, train the model on the training data, evaluate its performance using metrics like mean squared error or R-squared, and make predictions on the test set. Visualize the regression line and actual vs. predicted values to assess the model's accuracy
 
 
 
