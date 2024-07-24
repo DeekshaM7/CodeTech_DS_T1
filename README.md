@@ -1,4 +1,4 @@
-# CodeTech_DS_T1
+# CodeTech_DS_T1 AND T2
 Task one of CodeTech Internship
 
 **NAME:** DEEKSHA MANDAL
