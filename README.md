@@ -50,6 +50,7 @@ People who have a family history of heart disease are more likely to develop it.
 
 
 
+
 ### Project (TASK 2): PREDICTIVE MODELING WITH LINEAR REGRESSION
 
 ### Objective: 
@@ -67,6 +68,19 @@ Implement a simple linear regression model using a dataset with continuous targe
 8. Residual Analysis: Examine the residuals (differences between actual and anticipated values) for patterns that suggest model flaws, such as heteroscedasticity or nonlinearity.
 9. Predictions for Test Data: Use the trained model to forecast the target variable for the test set, then compare it to the actual values.
 10. Visualize the results: Plot the regression line and the actual against projected values. Visualize residuals to better understand the model's fit and detect any anomalies or patterns.
+
+
+### Output Screenshots:
+![image](https://github.com/user-attachments/assets/f7147bed-f514-4175-a160-5e10e24732b3)
+![image](https://github.com/user-attachments/assets/61458a8c-8c0d-4e38-8399-52739e00ff08)
+![image](https://github.com/user-attachments/assets/91f86169-469d-4608-976d-b37d7ee30b13)
+![image](https://github.com/user-attachments/assets/6233293d-4631-4e4c-944b-7e08828fd440)
+![image](https://github.com/user-attachments/assets/624d5c2c-855c-44c1-afbf-313c4737992e)
+![image](https://github.com/user-attachments/assets/0188a629-05f7-4648-b685-8d76d41ac0d6)
+![image](https://github.com/user-attachments/assets/6632037f-b9f7-4002-82f6-a65279745196)
+![image](https://github.com/user-attachments/assets/0b377b93-2a28-453d-8143-ce7a70a7e6ba)
+![image](https://github.com/user-attachments/assets/317b78c8-b985-452a-8fdf-b7d4176e42cb)
+![image](https://github.com/user-attachments/assets/4c3cf97e-a117-419a-9e30-7ff4b98327ab)
 
 
 ### Inferences from the entire Project:
